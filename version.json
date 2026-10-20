@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "minAppVersion": "1.0.0",
+  "installerUrl": "",
+  "files": {
+    "index.html": "c921412eda205589c2a139903e370320b78454427f4f61e25be5b37179cd5c1c",
+    "style.css": "8ce1862b1983a1e4cc42b71ddfcebfc7693224e4263c87bd89445fea2144ef8b",
+    "questions.js": "5a65b73036d99842dd0644433f175c78779673895d14a74e4cca9ca34023b55a",
+    "app.js": "947dd64f80d54606c217099c0e360fff6a64049f5c871621e050ffd40080af6b",
+    "version.js": "6db7bcf87b2b9a0b4f4dd72b2ee25e15ce77f78072ddcd2088103b56d8b102b7",
+    "manifest.json": "7962a877288c0964719e957697c8304775857d84e44edc95ffc270749208a992"
+  }
+}
